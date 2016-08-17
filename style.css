@@ -1,0 +1,62 @@
+body{
+    background: whitesmoke;
+}
+.border{
+    width: 1000px;
+    height: 820px;
+    border: 0.3em double black;
+    background: white;
+    margin: 0 auto;
+}
+.header{
+    width: 675px;;
+    height: auto;
+    margin: 0 auto;
+    border-bottom: 3px solid black;
+}
+.logo{
+    width: 220px;
+    height: 160px;
+    padding-left: 50%;
+    margin-top: 8px;
+}
+nav{
+    width: 675px;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 1px double black;
+}
+li{
+    display: inline;
+    margin: 2em;
+}
+li:hover{
+    color: red;
+    cursor: pointer;
+}
+#center{
+    height: 300px;
+    margin-top: 25px;
+    padding: 0 160px;
+}
+.img{
+    width: 680px;
+    height: 290px;
+}
+p{
+    text-align: center;
+    letter-spacing: 3px;
+}
+.para{
+    width: 53%;
+    height: 130px;
+    margin: 0 auto;
+    padding: 10px 0px 20px 0px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+}
+.box{
+    border: 2px solid darkgrey;
+    width: 400px;
+    margin: 0 auto;
+}
